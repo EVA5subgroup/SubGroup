@@ -1,13 +1,13 @@
 # Coding Drill
 
 0. Base Model
-   - [EVA5_WK_5_Base](./week-5/EVA5_WK_5_Base.ipynb)
+   - [EVA5_WK_5_Base](./EVA5_WK_5_Base.ipynb)
 
    Model is based on this class file
 
 1. Iteration 1
 
-    - [EVA5_WK_5_1](./week-5/EVA5_WK_5_1.ipynb)
+    - [EVA5_WK_5_1](./EVA5_WK_5_1.ipynb)
     1. Target
 
           Get setup right.
@@ -30,7 +30,7 @@
 
 2. Iteration 2
 
-    - [EVA5_WK_5_2](./week-5/EVA5_WK_5_2.ipynb)
+    - [EVA5_WK_5_2](./EVA5_WK_5_2.ipynb)
     1. Target
 
         Increase Accuracy
@@ -52,7 +52,7 @@
 
 3. Iteration 3
 
-    - [EVA5_WK_5_3](./week-5/EVA5_WK_5_3.ipynb)
+    - [EVA5_WK_5_3](./EVA5_WK_5_3.ipynb)
     1. Target
 
         Increase Accuarcy
@@ -73,7 +73,7 @@
 
 4. Iteration 4
 
-    - [EVA5_WK_5_4](./week-5/EVA5_WK_5_4.ipynb)
+    - [EVA5_WK_5_4](./EVA5_WK_5_4.ipynb)
 
     1. Target
 
